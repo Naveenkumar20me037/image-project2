@@ -1,0 +1,71 @@
+.border{
+    width: 500px;
+    height: 1750px;
+    border: 5px solid black;
+    background-color: aquamarine;
+}
+.img1{
+    position: fixed;
+    
+}
+.img2{
+    position: fixed;
+}
+.img3{
+    position: fixed;
+}
+.img4{
+    position: fixed;
+}
+.img5{
+    position: fixed;
+}
+.img6{
+    position: fixed;
+}
+.first{
+    position: fixed;
+}
+.last{
+    position: fixed;
+}
+
+#img1{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+#img2{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+#img3{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+#img4{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+#img5{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+#img6{
+    width: 250px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+.b1{
+    cursor: pointer;
+    background-color: green;
+}
+
+.b1:hover{
+    background-color: yellowgreen;
+}
